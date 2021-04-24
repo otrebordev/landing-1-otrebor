@@ -1,5 +1,5 @@
 # landing-1-otrebor
-Esto es una practica realizada por mi a puro css
+Esto es una práctica realizada por mi a puro css, puedes utilizarla sin ningún problema eres libre de hacer lo que se te plazca con ella.
 
 # Medium screen
 
